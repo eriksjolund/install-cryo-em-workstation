@@ -1,6 +1,6 @@
 # install-cryo-em-workstation
 
-Step-by-step instructions for installing an Ubuntu workstation with standard cryo-em software.
+Step-by-step instructions for installing an Ubuntu workstation with standard [cryo-EM](https://en.wikipedia.org/wiki/Cryo-electron_microscopy) software.
 The installed software should provide tools for post-processing and analyzing experiment data from a [Titan TEM](https://www.fei.com/products/tem/titan/).
 The ultimate goal is to have the installation fully automatic by just running a script.
 
