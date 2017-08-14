@@ -31,7 +31,7 @@ A lot of instructions are missing as of now, but let us start writing them.
 
 Follow the [tutorial](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop) of how to install an Ubuntu desktop.
 
-### Install Cuda and the nVidia kernlel drivers
+### Install Cuda and the nVidia kernel drivers
 
 Cuda and nVidia kernel drivers can be installed in different ways.
 Investigate, Which one works best?....
