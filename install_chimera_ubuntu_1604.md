@@ -20,21 +20,20 @@
        user@laptop:~$ mkdir -p /tmp/chimera/1.11.2
    ```
 
-* Start the installation
+5. Start the installation
 
-```
-user@laptop:~$ chmod 755 ~/Downloads/chimera-1.11.2-linux_x86_64.bin
-user@laptop:~$ ~/Downloads/chimera-1.11.2-linux_x86_64.bin
-```
+   ```
+   user@laptop:~$ chmod 755 ~/Downloads/chimera-1.11.2-linux_x86_64.bin
+   user@laptop:~$ ~/Downloads/chimera-1.11.2-linux_x86_64.bin
+   ```
 
-* Answer the question _Enter install location_
+6. Answer the question _Enter install location_
 
-Type _/tmp/chimera/1.11.2_
+   Type `/tmp/chimera/1.11.2`
 
-* Answer question _Install symbolic link to chimera executable for command line use in which directory?_
+7. Answer question _Install symbolic link to chimera executable for command line use in which directory?_
 
-Type _0_
-
+   Type `0`
 
 # Run Chimera
 
