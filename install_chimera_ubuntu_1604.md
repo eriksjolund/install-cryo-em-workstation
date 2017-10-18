@@ -33,13 +33,13 @@
 
    First erase the default answer _~/.local/UCSF-Chimera64-1.11.2_ by pressing backspace, then type `/tmp/chimera/1.11.2`
 
-7. Answer the question _Install symbolic link to chimera executable for command line use in which directory?_
-
-   Type `0`
-
-8. Answer the question _Install desktop menu and icon?_
+7. Answer the question _Install desktop menu and icon?_
 
    Type `No`
+
+8. Answer the question _Install symbolic link to chimera executable for command line use in which directory?_
+
+   Type `0`
 
 # Run Chimera
 
