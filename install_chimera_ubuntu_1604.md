@@ -17,7 +17,7 @@
    Open up a terminal and type
 
    ```
-       user@laptop:~$ mkdir -p /tmp/chimera/1.11.2
+   user@laptop:~$ mkdir -p /tmp/chimera/1.11.2
    ```
 
 5. Start the installation
@@ -29,15 +29,30 @@
 
 6. Answer the question _Enter install location_
 
-   Type `/tmp/chimera/1.11.2`
+   First erase the default answer _~/.local/UCSF-Chimera64-1.11.2 by pressing backspace then type `/tmp/chimera/1.11.2`
 
 7. Answer question _Install symbolic link to chimera executable for command line use in which directory?_
 
    Type `0`
 
-# Run Chimera
+8. Answer question _Install desktop menu and icon?_
 
+   Type `No`
+
+# Run Chimera
 
 ```
 user@laptop:~$ /tmp/chimera-1.11.2/bin/chimera
 ```
+
+
+# Disk space used by the Chimera installation
+
+
+```
+user@laptop:~$ du -sm /tmp/chimera-1.11.2/
+391
+```
+
+The Chimera 1.11.2 installation uses 391 Mb of disk space.
+
