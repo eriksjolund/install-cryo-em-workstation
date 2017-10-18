@@ -2,7 +2,9 @@
 
 1. Open the URL
 
-   https://www.cgl.ucsf.edu/chimera/download.html in a web browser.
+   https://www.cgl.ucsf.edu/chimera/download.html
+
+   in a web browser.
 
 2. Click a download link for _Linux 64-bit_
    (for instance https://www.cgl.ucsf.edu/chimera/cgi-bin/secure/chimera-get.py?file=linux_x86_64/chimera-1.12-linux_x86_64.bin
