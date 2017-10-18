@@ -56,5 +56,5 @@ user@laptop:~$ du -sh /tmp/chimera-1.11.2/
 447M    /tmp/chimera-1.11.2/
 ```
 
-The Chimera 1.11.2 installation uses 391 Mb of disk space.
+The Chimera 1.11.2 installation uses 447 Mb of disk space.
 
