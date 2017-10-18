@@ -29,7 +29,7 @@
 
 6. Answer the question _Enter install location_
 
-   First erase the default answer _~/.local/UCSF-Chimera64-1.11.2 by pressing backspace then type `/tmp/chimera/1.11.2`
+   First erase the default answer _~/.local/UCSF-Chimera64-1.11.2_ by pressing backspace then type `/tmp/chimera/1.11.2`
 
 7. Answer question _Install symbolic link to chimera executable for command line use in which directory?_
 
